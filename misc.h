@@ -1,8 +1,8 @@
-#define PIX_blu 0x00003F
-#define PIX_yel 0x151500
-#define PIX_whi 0x111111
+#define PIX_gre 0x16537e
+#define PIX_red 0xc90000
+#define PIX_whi 0xff9200
 
-#define PIX_b 0x00000F
+#define PIX_g 0x6fa8dc
 
 void put_pixel(uint32_t pixel_grb);
 
