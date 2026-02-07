@@ -1,3 +1,5 @@
+# This is likely NOT stable on all Pi Picos. Please use with caution!
+
 ## Features
 
 - Faster boot times (sub 0.2 seconds on average)
